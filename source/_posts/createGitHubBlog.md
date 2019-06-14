@@ -23,5 +23,8 @@ $ hexo deploy     //部署网站， 简写为 hexo d
 ---
 ## GitHub部署
 
+
+## 多端同步
+多台电脑编辑和发布博客
 ---
 ## Markdown语言
